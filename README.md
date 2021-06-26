@@ -50,7 +50,7 @@
 
 <h3 align="left">Software:</h3>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 
 <h3 align="left">Github Stat's:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurborkar&show_icons=true&locale=en&layout=compact" alt="mayurborkar" /></p>
