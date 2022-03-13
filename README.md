@@ -10,14 +10,14 @@
 - 📫 How to reach me **borkarm112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/mayurborkar" target="blank"><img align="center" src="https://github.com/mayurborkar/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="mayurborkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayurborkar" target="blank"><img align="center" src="https://github.com/mayurborkar/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="mayurborkar" height="30" width="40" /></a>
+<a href="https://instagram.com/being__mayur" target="blank"><img align="center" src="https://github.com/mayurborkar/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="being__mayur" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/borkarm112" target="blank"><img align="center" src="https://github.com/mayurborkar/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="borkarm112" height="30" width="40" /></a>
+</p>
 
-[![GitHub](https://user-images.githubusercontent.com/62636740/119519931-783e6b00-bd97-11eb-8a39-d955fff9dfe8.png)][1]
-[![Linkedln](https://user-images.githubusercontent.com/62636740/119520093-9a37ed80-bd97-11eb-994d-fa42c1bca57e.png)][2]
-
-[1]: http://www.github.com/mayurborkar
-[2]: https://www.linkedin.com/in/mayurborkar
-
-<!-- <h3 align="left">Programming Languages:</h3> -->
+<h3 align="left">Languages & Tool:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 <!-- <h3 align="left">Frontend Development:</h3> -->
