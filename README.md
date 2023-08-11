@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurborkar&label=Profile%20views&color=0e75b6&style=flat" alt="mayurborkar" /> </p>
 
+- 🔭 I’m currently working on **Client Lifecycle Management Software**
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence, NLP, Computer Vision**
 
 - 💬 Ask me about **Python, ML, DL, NLP**
+- 📄 Know about my experiences [My REsume](https://drive.google.com/file/d/1aD5uSDQLzojO1HM26kBCw5gnV-BKMSJs/view?usp=drive_link)
 
 - 📫 How to reach me **borkarm112@gmail.com**
 
@@ -42,7 +44,12 @@ height="60"/> </a>
 height="60"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="60" height="60"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>  
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 <h3 align="left">Github Stat's:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurborkar&show_icons=true&locale=en&layout=compact" alt="mayurborkar" /></p>
